@@ -1,71 +1,78 @@
-Markdown Resumé
+Patrick Murray
 ===============
 
-[Markdown](https://raw.github.com/mwhite/resume/master/resume.md) -> [PDF](https://raw.github.com/mwhite/resume/master/resume.pdf), [HTML](http://mwhite.github.com/resume), and more
-<http://github.com/mwhite/resume>
+Summary
+-------
 
-Interests
----------
-
-*   Creating beautiful resumés from simple Markdown documents
+*   Software Engineer with over 10 years of experience working with systems, tools, backends / APIs and web design & development.
 
 
-Work Experience
----------------
+Professional Experience
+-----------------------
 
-*   **Word Processor** (Redmond, WA)
 
-    Junior Resumé Maker, 2006 - 2007
+*   **Cisco Systems, Inc.** (San Jose, California)
 
-    -   Intermingled presentation and content
-    -   Styling was a pain, so either didn't do it or found a half-decent
-        template and didn't mess with it
+    Technical Leader - Software Engineering, 2014 - Present
 
-*   **\LaTeX\ + pdflatex**
+    -   Led efforts for developing a provisioning and management system for Kubernetes container scheduling systems running on top of VMWare on-premise clusters
+        - Languages & Tech: Python, Node.js, Bash, CentOS Linux, CoreOS Linux, Docker, Consul, VMWare vSphere
+    -   Built and maintained various microservices as part of Cisco V2P platform (Virtualized Video Processing)
+        - Languages: Node.js, Bash, Python
+    -   Developed an automated deployment for reproducible builds of development platform for engineers
+        - Languages & Tech: Vagrant, Terraform, Packer, Ruby, Bash, Python
+    -   Designed and Implemented a web single-page app for demoing live, video-on-demand and DVR video playback on Cisco MOS (Media Origination System)
+        - Angular.js, MongoDB, Node.js, Express, Bootstrap, Docker, VMWare vSphere
+        
+*   **HGST, Inc.** (San Jose, California)
 
-    Senior Resumé Maker, 2008 - 2010
+    Software Engineer - Tools, 2008 - 2014
 
-    -   Edited verbose \LaTeX\ documents in a text editor
-    -   Mixed content and presentation to achieve pixel-perfection
-    -   Installed and configured the unusual TeX setups required by the
-        best-looking \LaTeX\ resumés
+    -   Architected a live data visualization / analytics platform for hard drive manufacturing data
+        - Used by global engineering teams to speed up development work
+        - Users can search through millions of logs and instantly graph trends and comparisons
+        - Grew a team of 2 engineers to 9 over 2 years
+        - Built with MongoDB, Elasticsearch, Express / Node.js, Marionette.js and Highcharts
+        - Using Agile development, BDD-style testing, Git DVCS and JIRA issue tracking
+        - Wrote concurrent ETL application in C++
+        - Implemented deployment strategy using CoreOS and Docker on private cloud
 
-*   **LinkedIn, StackOverflow Careers, vizualize.me, etc**
+*   **GE Aviation** (Grand Rapids, Michigan)
 
-    Web Resumé Intern, August 2010
+    Summer Intern - Systems Engineering, 2007 - 2008
 
-    -   Entered data, adapting to different data models and formatting
-        limitations
-    -   Attempted to customize PDF exports and remove default resumé elements,
-        to no avail
+    -   Wrote scripts for flight data recorder parameter testing
 
-*   **Markdown with Pandoc**
 
-    Resumé Architect, February 2011 - present
+*   **Michigan Tech. EE/CpE Department** (Houghton, Michigan)
 
-    -   Write in one format (Markdown), convert to many formats (PDF, HTML, ODT,
-        DOCX, and more)
-    -   Style HTML output with CSS and PDF output with a custom \LaTeX\ header
-    -   Use a simple pre-processor to define per-format operations on the
-        Markdown input or its parts, such as moving contact information to the
-        top right of the page in both HTML and PDF output.
-    -   Use a text-based resumé when needed in a pinch
-    -   Use version control, including free hosting on Github
+    Systems Administrator - Research Linux Cluster, 2005 - 2006
+
+    -   Administered graduate research 12-node linux cluster
 
 
 Education
 ---------
 
-*   **Github University** (World Wide Web)
+*   **Michigan Technological University** (Houghton, MI)
 
-    B.S. in Submodules, May 2012
+    B.S. Dual Major Computer Engineering & Electrical Engineering, 2008.  GPA: 3.5
+
+*   **University of Strathclyde** (Glasgow, United Kingdom)
+
+    Study Abroad Student, Winter Session, 2006.
 
 
 Skills
 ------
 
-*   Very experienced with Python, Markdown, \LaTeX
-
-*   Familiar with GNU Make, bash
-
-
+*   Python / Bash / JavaScript / Perl / Ruby
+*   Automation: Packer, Vagrant, Terraform, Jenkins, Ansible
+*   Databases: MongoDB, SQL, Elasticsearch
+*   Linux Systems Administration and Deployment Automation / Provisioning
+*   C++ Object-Oriented Development: MS Visual Studio, g++/make/cmake
+*   Web Development:
+    *   Angular.js, Backbone.js, Bootstrap
+    *   REST API development with Node.js / Express
+    *   HTML5, Javascript, CSS/SCSS
+*   Tools: Vim, VSCode, Git / GitHub,  Subversion, JIRA
